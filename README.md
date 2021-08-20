@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-- I'm Ranjit Mohite, Student at 👨‍💻 Government College of Engineering,Karad Pursuing BTECH-IT
+- I'm Ranjit Mohite, Completed BTECH-IT
 
 
   # Hello World!! 🤔
