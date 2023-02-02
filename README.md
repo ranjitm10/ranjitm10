@@ -1,6 +1,6 @@
 # Hi there 👋,
 
-- I'm Ranjit Mohite, Completed BTECH-IT
+- I'm Ranjit Mohite, Working at Accenture
 
 
   # Hello World!! 🤔
